@@ -10,7 +10,7 @@ Responsive Design: Ensure your website template looks impeccable on any device, 
 Join the Challenge:
 Ready to master the world of digital assets web development? Here's your toolkit:
 
-Live Demo: 
+Live Demo: https://codelikeamachine.github.io/Day29of50-Responsive-Digistic-Assets-Website-Template/
 
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
 
